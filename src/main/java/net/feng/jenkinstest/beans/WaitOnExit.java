@@ -1,4 +1,4 @@
-package net.feng.jekinstest.beans;
+package net.feng.jenkinstest.beans;
 
 import org.springframework.stereotype.Component;
 

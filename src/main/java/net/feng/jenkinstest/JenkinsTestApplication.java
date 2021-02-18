@@ -1,15 +1,15 @@
-package net.feng.jekinstest;
+package net.feng.jenkinstest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JekinsTestApplication
+public class JenkinsTestApplication
 {
 
     public static void main(String[] args)
     {
-        SpringApplication.run(JekinsTestApplication.class, args);
+        SpringApplication.run(JenkinsTestApplication.class, args);
     }
 
 }

@@ -1,10 +1,10 @@
-package net.feng.jekinstest;
+package net.feng.jenkinstest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JekinsTestApplicationTests
+class JenkinsTestApplicationTests
 {
 
     @Test

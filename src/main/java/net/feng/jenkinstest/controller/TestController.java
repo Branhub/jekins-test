@@ -1,4 +1,4 @@
-package net.feng.jekinstest.controller;
+package net.feng.jenkinstest.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
