@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>net.feng</groupId>
-    <artifactId>jekins-test</artifactId>
+    <artifactId>jenkins-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>jekins-test</name>
     <description>Demo project for Spring Boot</description>
